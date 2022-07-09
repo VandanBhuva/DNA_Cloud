@@ -6,4 +6,5 @@ To run the application, type following command on command line
 
 Major Dependancies you need to install :
 
-* PyQT
+* PyQT5
+
